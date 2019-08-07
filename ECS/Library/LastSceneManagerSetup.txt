@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Test/ECS\u6CE2\u6D6A\u65B9\u584A/\u7D14ECS/ECS_version.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
