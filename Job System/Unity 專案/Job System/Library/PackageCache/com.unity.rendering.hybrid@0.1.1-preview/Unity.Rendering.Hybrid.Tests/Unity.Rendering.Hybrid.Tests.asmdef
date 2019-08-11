@@ -1,0 +1,41 @@
+{
+    "name": "Unity.Rendering.Hybrid.Tests",
+    "references": [
+        "Unity.Rendering.Hybrid",
+        "Unity.Transforms",
+        "Unity.Transforms.Hybrid",        
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Mathematics.Extensions.Hybrid",
+        "Unity.Scenes.Hybrid",
+        "Unity.Scenes.Editor",
+        "Unity.Entities.Tests",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.RenderPipelines.HighDefinition.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "[6.0.0,7.0.0)",
+            "define": "HDRP_6_EXISTS"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "7.0.0",
+            "define": "HDRP_7_EXISTS"
+        }
+    ]
+}
