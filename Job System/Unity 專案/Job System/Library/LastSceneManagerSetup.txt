@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/01Job\u55AE\u7DDA\u7A0B(\u6578\u5B78\u51FD\u5F0F)/job.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
