@@ -1,5 +1,8 @@
 # ECS_Unity_Exercise
 
+![](https://github.com/PeterLukGit/ECS-Introduction/blob/master/01.PNG)
+
+![](https://github.com/PeterLukGit/ECS-Introduction/blob/master/02.PNG)
 
 # 責任聲明：
 
