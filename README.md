@@ -1,5 +1,7 @@
 # ECS_Unity_Exercise
 
+ECS練習檔+Job練習檔
+
 ![](https://github.com/PeterLukGit/ECS-Introduction/blob/master/01.PNG)
 
 ![](https://github.com/PeterLukGit/ECS-Introduction/blob/master/02.PNG)
